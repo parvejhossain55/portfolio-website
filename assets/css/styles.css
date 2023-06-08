@@ -1292,7 +1292,7 @@ h6 {
   margin-top: 20px;
 }
 .mh-about .mh-about-inner p {
-  margin-bottom: 30px;
+  margin-bottom: 12px;
 }
 .mh-about .mh-about-inner .btn {
   margin-top: 20px;
@@ -1303,7 +1303,7 @@ h6 {
 .mh-about-tag {
   word-break: break-all;
   margin-bottom: 10px;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 .mh-about-tag ul li {
   margin: 0 6px;
